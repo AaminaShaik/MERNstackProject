@@ -1,0 +1,48 @@
+.col {
+    margin: 10px;
+  }
+  
+
+  .card1 {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card1:hover {
+    transform: scale(1.05);
+  }
+  
+
+  .card1 img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+  }
+  
+
+  .card1 .card-body {
+    padding: 15px;
+  }
+  
+ 
+  .card1 .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  .container1 {
+    max-width: 800px; 
+    margin: 0 auto;
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+  }
+  
+  h2 {
+    color: #333; 
+  }
+  
+  p {
+    line-height: 1.5; 
+  }

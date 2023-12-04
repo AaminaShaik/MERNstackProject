@@ -1,0 +1,28 @@
+th{
+    font-size: 25px;
+}
+td{
+    font-size: 20px;
+}
+.table1{
+    width: 100%;
+}
+.total1{
+    font-size: 35px;
+    font-weight: 600;
+}
+.my-form {
+    width: 300px; /* Adjust the width as needed */
+    margin: auto; /* Center the form horizontally */
+  }
+  
+  .my-form label {
+    display: block; /* Each label on a new line */
+    margin-bottom: 5px; /* Space between label and input */
+  }
+  
+  .my-form input {
+    width: 100%; /* Make the input fields take up the full width of the container */
+    margin-bottom: 10px; /* Space between input fields */
+    padding: 8px; /* Add padding for better visual appearance */
+  }

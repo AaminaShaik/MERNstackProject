@@ -21,32 +21,37 @@
   
   .color img {
     max-width: 100%;
-    border-radius: 4px;
+    border-radius: 10px;
     margin-bottom: 10px;
   }
   
-  button {
+  .cart-button {
     background-color: darkcyan;
     color: white;
     padding: 8px 16px;
     border: none;
-    border-radius: 4px;
+    border-radius: 10px;
     cursor: pointer;
-    transition: background-color 0.3s ease; 
+    transition: background-color 0.3s ease;
+    height: 60px;
+    width: 150px; 
+    font-size: 20px;
   }
   
-  button:hover {
-    background-color: #45a049;
+  .cart-button:hover {
+    background-color: #48b44e;
   }
   
-  h2 {
+  .headder{
     color: cadetblue;
-    font-size: 24px;
+    font-size: 60px;
     margin-bottom: 20px;
     transition: color 0.3s ease; 
+    font-family: poppins;
+    cursor: pointer;
   }
   
-  h2:hover {
+  .headder:hover {
     color: brown;
   }
   
@@ -66,3 +71,8 @@
       width: 100%;
     }
   }
+.label{
+  width: 1400px;
+  height: 600px;
+  cursor: pointer;
+}
