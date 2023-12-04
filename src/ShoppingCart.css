@@ -12,17 +12,17 @@ td{
     font-weight: 600;
 }
 .my-form {
-    width: 300px; /* Adjust the width as needed */
-    margin: auto; /* Center the form horizontally */
+    width: 300px; 
+    margin: auto; 
   }
   
   .my-form label {
-    display: block; /* Each label on a new line */
-    margin-bottom: 5px; /* Space between label and input */
+    display: block; 
+    margin-bottom: 5px; 
   }
   
   .my-form input {
-    width: 100%; /* Make the input fields take up the full width of the container */
-    margin-bottom: 10px; /* Space between input fields */
-    padding: 8px; /* Add padding for better visual appearance */
+    width: 100%; 
+    margin-bottom: 10px; 
+    padding: 8px; 
   }
